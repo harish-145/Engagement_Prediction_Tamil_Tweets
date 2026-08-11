@@ -1,0 +1,10 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
